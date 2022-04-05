@@ -1,7 +1,7 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Naman Nk Bot",
   "version": "1.0.0",
-  "description": "Multi device wa bot created by Xeon Bot Inc.",
+  "description": "Multi device wa bot created by Naman NK Bot Inc.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -58,13 +58,13 @@
     "lib": "lib",
     "src": "src"
   },
-  "devDependencies": {},
+  "devDependencies": {},https://github.com/Namankulkarni/CheemsBot-MD
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD.git"
+    "url": "git+https://github.com/Namankulkarni/CheemsBot-MD"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD/issues"
+    "url": "https://github.com/Namankulkarni/CheemsBot-MD"
   },
   "homepage": "https://github.com/DGXeon/CheemsBot-MD#readme"
 }
